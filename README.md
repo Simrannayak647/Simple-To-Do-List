@@ -1,5 +1,8 @@
 # Simple-To-Do-List
 This is a simple and responsive to-do list application built using HTML, CSS, and JavaScript. The application allows users to add, manage, and delete tasks efficiently.
+
+
+
 Features
 Add Tasks: Easily add new tasks to your to-do list.
 Delete Tasks: Remove tasks that are completed or no longer needed.
